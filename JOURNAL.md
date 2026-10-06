@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.9h | 1 |
+| Week 1 | Tier 1 | 1.15h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-06 — hello there how are guys
 
-**1.9h**
+**1.15h**
 
 hello there how are guys
 5-oct-2026
