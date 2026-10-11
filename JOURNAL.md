@@ -175,7 +175,7 @@ in this session i write boom also please consider my boom which iwrite in halfli
 
 hi
 11-10-2026
-today i finally wrote readme  file but my schematics file is not opening but idont know   why and i have almost no time left to look into it so i am submiting project
+today i finally wrote readme  file but my schematics file is not opening but idont know   why and i have almost no time left to look into it so i am submiting project also the reviewer I attached image which has more price because of pieces but I add my require pieces pieces  so that why it is differ in price
 
 [Timelapse](https://lookout.hackclub.com/api/media/5b907ca2-b551-4b3e-8738-0ba0dcbe5b1e/video.mp4)
 
