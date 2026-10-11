@@ -138,4 +138,9 @@ today I add images and make a edges cut to almost round I face laggy bcuz the im
 
 **0.45h**
 
+Work session
+10-10-2026
+
+In this session I try to figure out how to save server files and In my main files there are many files mlnae restore ao I try to figure out ard they useful or I just delete them
+
 [Timelapse](https://lookout.hackclub.com/api/media/5da21c2e-c258-4b9c-acd2-6b22d6f5eb57/video.mp4)
