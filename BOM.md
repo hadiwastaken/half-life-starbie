@@ -21,7 +21,7 @@
 | [PCB](https://www.jlcpcb.com/) | for permanent wiring and clean look | 1 | $10.00 | $10.00 | [JLPCB](https://www.jlcpcb.com/) |
 | [key caps](https://amazon.com) | for keys | 2 | $0.60 | $1.20 | [amazon](https://amazon.com) |
 | **Parts subtotal** | — | — | — | **$25.68** | — |
-| **Tax & shipping** | — | — | — | **$4.76** | — |
-| **Total** | — | — | — | **$30.44** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$25.68** | — |
 
-**$0.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$4.32 left of the tier's funding.
