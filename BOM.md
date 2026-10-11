@@ -21,7 +21,7 @@
 | [PCB](https://www.jlcpcb.com/) | for permanent wiring and clean look | 1 | $10.00 | $10.00 | [JLPCB](https://www.jlcpcb.com/) |
 | [key caps](https://amazon.com) | for keys | 2 | $0.60 | $1.20 | [i buy them locally](https://amazon.com) |
 | **Parts subtotal** | — | — | — | **$25.18** | — |
-| **Tax & shipping** | — | — | — | **$4.00** | — |
-| **Total** | — | — | — | **$29.18** | — |
+| **Tax & shipping** | — | — | — | **$4.76** | — |
+| **Total** | — | — | — | **$29.94** | — |
 
-$0.82 left of the tier's funding.
+$0.06 left of the tier's funding.
