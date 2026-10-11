@@ -1,10 +1,10 @@
 // this week is for design and development and i will add code in the later weeks ok...
 
-voidsetup() {
+void setup() {
 
 // i will write code later 
 }
-voidloop() {
+void loop() {
 
 
 // same here
