@@ -34,7 +34,7 @@
 
  * bro i simply made folder and file of ino file but I dont add code bcuz this week is for designing i will write code in building week.
  * ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- * the issue is in my computer mt sch file is not opening so I am attaching screenshot of sch and also you can see my timelapses to see that I made schematics but it is not opening I don't know why please dont reject my project .
+ * the issue is in my computer mt sch file is not opening so I am attaching screenshot of sch and also you can see my timelapses to see that I made schematics but it is not opening I don't know why please dont reject my project .i try to solve this problem but if it occured so check it please i think i fix it but in case you know 
 <img width="908" height="658" alt="schematics" src="https://github.com/user-attachments/assets/05f825f1-d0c2-47f4-9618-345451820b31" />
 <img width="976" height="797" alt="pcb" src="https://github.com/user-attachments/assets/417da53d-d601-4347-9882-1803742bab63" />
 <img width="723" height="515" alt="errors" src="https://github.com/user-attachments/assets/1b247950-f4e4-4baa-8bbe-b42f047021f1" />
