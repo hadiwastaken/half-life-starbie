@@ -41,3 +41,5 @@
 <img width="908" height="658" alt="schematics" src="https://github.com/user-attachments/assets/05f825f1-d0c2-47f4-9618-345451820b31" />
 <img width="976" height="797" alt="pcb" src="https://github.com/user-attachments/assets/417da53d-d601-4347-9882-1803742bab63" />
 <img width="723" height="515" alt="errors" src="https://github.com/user-attachments/assets/1b247950-f4e4-4baa-8bbe-b42f047021f1" />
+<img width="1422" height="913" alt="price of pcb" src="https://github.com/user-attachments/assets/2c027757-5547-475d-ab90-fee6bb2c86c3" />
+
