@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15.67h | 15 |
+| Week 1 | Tier 1 | 15.14h | 15 |
 
 ## Contents
 
@@ -28,7 +28,7 @@
 12. [2026-10-11 – hi](#2026-10-11-hi)
 13. [2026-10-11 – hi](#2026-10-11-hi)
 14. [2026-10-24 – 23-10-2026](#2026-10-24-23-10-2026)
-15. [2026-10-25 – 25-10-2026](#2026-10-25-25-10-2026)
+15. [2026-10-25 – i accidently attached the timelpse now i dont know what to do so please dont consider this](#2026-10-25-i-accidently-attached-the-timelpse-now-i-dont-kno)
 
 ## Design
 
@@ -192,11 +192,10 @@ so in this session i complete my footprint bcuz the two cause random errors and 
 
 [Timelapse](https://lookout.hackclub.com/api/media/06a30efe-5e03-4e6f-82cb-bb8068078df2/video.mp4)
 
-### 2026-10-25 – 25-10-2026
+### 2026-10-25 – i accidently attached the timelpse now i dont know what to do so please dont consider this
 
-**1.48h**
+**0.95h**
 
-25-10-2026
-so in this session i made all my things ready and also write readme
+i accidently attached the timelpse now i dont know what to do so please dont consider this
 
-[Timelapse](https://lookout.hackclub.com/api/media/fae2157d-eeb4-47c5-8ccc-a4078a139e4d/video.mp4)
+[Timelapse](https://lookout.hackclub.com/api/media/71929420-d905-4e0b-bfa6-78ba42a1927e/video.mp4)
