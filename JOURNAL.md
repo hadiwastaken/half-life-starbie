@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15.14h | 15 |
+| Week 1 | Tier 1 | 14.21h | 15 |
 
 ## Contents
 
@@ -194,8 +194,8 @@ so in this session i complete my footprint bcuz the two cause random errors and 
 
 ### 2026-10-25 – i accidently attached the timelpse now i dont know what to do so please dont consider this
 
-**0.95h**
+**0.02h**
 
 i accidently attached the timelpse now i dont know what to do so please dont consider this
 
-[Timelapse](https://lookout.hackclub.com/api/media/71929420-d905-4e0b-bfa6-78ba42a1927e/video.mp4)
+[Timelapse](https://lookout.hackclub.com/api/media/b7302e5b-7720-4390-adb7-90791ad1e4c9/video.mp4)
