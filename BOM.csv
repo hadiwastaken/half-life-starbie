@@ -1,7 +1,7 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 0.96 oled,1,Digilog,$3.00,$3.00,https://digilog.pk
 MPU6050,1,Digilog,$1.28,$1.28,https://digilog.pk
-10k resitor,1,amazon,$0.40,$0.40,https://amazon.com
+10k resitor,1,Digilog,$0.40,$0.40,https://digilog.pk
 mx switches,2,amazon,$0.50,$1.00,https://amazon.com
 XIAO-ESP32-C3-SMD,1,amazon,$5.00,$5.00,https://seeedstudio.com
 DHT11,1,amazon,$3.33,$3.33,https://amazon.com
