@@ -1,45 +1,24 @@
-# half-life- starbie
+# half-life-Starbie
+<img width="699" height="542" alt="3D view of pcb" src="https://github.com/user-attachments/assets/d246b2b0-5c5e-414a-82b8-72550950ceb7" />
 
-# project name : starbie
-*  this Starbie is a project of half life hack club build by  a member basically its a digi motion desktop pet made for fun.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ## devlogs and progress.
-   **WEEK 1 (DESIGN PHASE)**
-   
-  * **DAY 1&2:**
-  * On day1 and 2 I made the environment and setup libraires and read guide and see some tutorials for KICAD software and fun like 67 .
-  *  **DAY 3&4**
-  *  ON day 3 and 4 I started to make schematics with the help of guide and my favorite moral person AI.
-  *  **DAY 5&6**
-  *  On day 5 and 6 I upgrade to PCB and try to figure out tool while listening to my artist central cee also  I made some customization in my PCB I am attaching image of my PCB .
-  *   **DAY 7**
-  *   AT LAST I made documents ready and write read me file also made firmware folder.
+* basically, this is a digital pet named Starbie and it is inspired by other digital pets also it contain diffrent sensors and components built on pcb bcause i want to learn PCB design and how things work in KICAD thatswhy i made this.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-## ERROR WHICH I FACED AND SOLVEEEEEE THEM ##
+**FEATURES**
+ * OLED display for displaying pet
+ * A motion sensor named MPU6050 for tilt and shake interactions
+ * Buttons to control pet and function
+ * Built in pet
+ * Customized PCB design
+ * Microcontroller named XIAO ESP-32-C3
 
-* **DAY 1 & 2**
-* This is the most worst part of the whole project i am so confused beacause of libraires and kicad hidden bugs but thanks to tuturials and guide and my friend AI they saed me from this.
-* **DAY 3 & 4**
-* ON these days I face many problems like when I move one thing the connections elated to them don't change their position with respect to component I become so frustrated with this I think KICAD should introduce this .
-*  **DAY 5 & 6 **
-*  HERE I FACED angle difficulty bcuz my shape is parallelogram when I change angle the remaining angles also changed and I also faced lagging bcuz when I mistakenly import heavy image KICAD started not to responding but bcuz of AI I solved this problem.
-*  **DAY 7**
-*  on last day I faced difficulty in BOM.csv file bcuz when I import it the components names are different from the guide name so I changed name from the option in half-life website but in repository the component are not changed so I transfer your attention to this matter please don't reject my project bcuz of this.
+   **HOW IT WORKS**
+   * SO THE ESP-32 ACTS AS THE BRAIN AND GATHERS DATA FROM DIFFRENT SENSORS AND FROM THE BUTTONS THEN THIS INFO IS PROCESSED TO CONTROL ANIMATION AND MENU NAVIGATION AND STATUS DISPLALYS ON THE OLED SCREEN.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- the hardware which i use in the project  you can see in BOM.CSV file in my reository.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## FIRMWARE STATUS ##
+   **IMAGES**
 
- * bro i simply made folder and file of (ino file) but I dont add code bcuz this week is for designing i will write code in building week.
+   <img width="908" height="658" alt="schematics" src="https://github.com/user-attachments/assets/b554b5e9-52f4-4bda-ac9d-f60494d0b7b8" />
+   <img width="976" height="797" alt="pcb" src="https://github.com/user-attachments/assets/f9984c16-afd4-4bfd-87d3-b56c65d930b0" />
+   <img width="723" height="515" alt="errors" src="https://github.com/user-attachments/assets/4ba91136-9675-4c54-9187-e814c8207b5d" />
+   <img width="1422" height="913" alt="price of pcb" src="https://github.com/user-attachments/assets/cdbe1eec-a76e-4068-90cc-fc2cbb7df02a" />
 
- * ##price of pcb##
- * i forgot to add price of pcb screenshot in website so i am giving the screenshot in this repository i hope you understand.
- * ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- * the issue is in my computer mt sch file is not opening so I am attaching screenshot of sch and also you can see my timelapses to see that I made schematics but it is not opening I don't know why please dont reject my project .i try to solve this problem but if it occured so check it please i think i fix it but in case you know 
-<img width="908" height="658" alt="schematics" src="https://github.com/user-attachments/assets/05f825f1-d0c2-47f4-9618-345451820b31" />
-<img width="976" height="797" alt="pcb" src="https://github.com/user-attachments/assets/417da53d-d601-4347-9882-1803742bab63" />
-<img width="723" height="515" alt="errors" src="https://github.com/user-attachments/assets/1b247950-f4e4-4baa-8bbe-b42f047021f1" />
-<img width="1422" height="913" alt="price of pcb" src="https://github.com/user-attachments/assets/2c027757-5547-475d-ab90-fee6bb2c86c3" />
 
