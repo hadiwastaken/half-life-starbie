@@ -1,5 +1,5 @@
 # half-life-Starbie
-<img width="643" height="691" alt="satrbie 3Dview pic" src="https://github.com/user-attachments/assets/e70b3b0c-3864-4811-932e-b5101d3233ec" />
+<img width="744" height="824" alt="3D viewer(new)" src="https://github.com/user-attachments/assets/c7a15ddd-9e50-4b10-bf66-319039fcf081" />
 
 
 * basically, this is a digital pet named Starbie and it is inspired by other digital pets also it contain diffrent sensors and components built on pcb bcause i want to learn PCB design and how things work in KICAD thatswhy i made this.
@@ -18,7 +18,7 @@
    **IMAGES**
 
    <img width="908" height="658" alt="schematics" src="https://github.com/user-attachments/assets/b554b5e9-52f4-4bda-ac9d-f60494d0b7b8" />
-   <img width="911" height="761" alt="satrbie pcb editor pic" src="https://github.com/user-attachments/assets/3cd34eec-c14f-4ad0-b596-27056efad4db" />
+   <img width="812" height="727" alt="pcbnewversion" src="https://github.com/user-attachments/assets/3639df58-b95f-4f83-835b-f5db94605006" />
    <img width="723" height="515" alt="errors" src="https://github.com/user-attachments/assets/4ba91136-9675-4c54-9187-e814c8207b5d" />
    <img width="1422" height="913" alt="price of pcb" src="https://github.com/user-attachments/assets/cdbe1eec-a76e-4068-90cc-fc2cbb7df02a" />
 
