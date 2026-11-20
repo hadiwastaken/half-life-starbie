@@ -1,5 +1,6 @@
 # half-life-Starbie
-<img width="744" height="824" alt="3D viewer(new)" src="https://github.com/user-attachments/assets/c7a15ddd-9e50-4b10-bf66-319039fcf081" />
+<img width="882" height="897" alt="starbie(new)3d viewpic" src="https://github.com/user-attachments/assets/85127e56-83fc-4bcf-a0c8-9be53647e363" />
+
 
 
 * basically, this is a digital pet named Starbie and it is inspired by other digital pets also it contain diffrent sensors and components built on pcb bcause i want to learn PCB design and how things work in KICAD thatswhy i made this.
@@ -16,10 +17,6 @@
    * SO THE ESP-32 ACTS AS THE BRAIN AND GATHERS DATA FROM DIFFRENT SENSORS AND FROM THE BUTTONS THEN THIS INFO IS PROCESSED TO CONTROL ANIMATION AND MENU NAVIGATION AND STATUS DISPLALYS ON THE OLED SCREEN.
 
    **IMAGES**
-
-   <img width="908" height="658" alt="schematics" src="https://github.com/user-attachments/assets/b554b5e9-52f4-4bda-ac9d-f60494d0b7b8" />
-   <img width="812" height="727" alt="pcbnewversion" src="https://github.com/user-attachments/assets/3639df58-b95f-4f83-835b-f5db94605006" />
-   <img width="723" height="515" alt="errors" src="https://github.com/user-attachments/assets/4ba91136-9675-4c54-9187-e814c8207b5d" />
-   <img width="1422" height="913" alt="price of pcb" src="https://github.com/user-attachments/assets/cdbe1eec-a76e-4068-90cc-fc2cbb7df02a" />
-
-
+<img width="882" height="897" alt="starbie(new)3d viewpic" src="https://github.com/user-attachments/assets/2d707e02-adb3-43a5-a97a-d25910455183" />
+<img width="1313" height="887" alt="schematicstrbienewpic" src="https://github.com/user-attachments/assets/86530c3d-c772-4ce7-aadd-e85220a45393" />
+<img width="773" height="775" alt="satrbie(new)pcbpic" src="https://github.com/user-attachments/assets/4bf262dc-a3a1-4386-9605-e01c5663b8ff" />
