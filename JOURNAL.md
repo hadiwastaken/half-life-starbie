@@ -31,7 +31,7 @@
 15. [2026-10-25: i accidently attached the timelpse now i dont know what to do so please dont consider this](#2026-10-25-i-accidently-attached-the-timelpse-now-i-dont-kno)
 16. [2026-11-25: ![WhatsApp Image 2026-11-25 at 15.05.51](https://halflife.hackclub-assets.com/sessions/9RMUX4yxUeccYF4UiHF6A16jL2elmZRn/6feff313d0b0d8a82b1c57ca61e6d2a99e656758c2660dae55e60c5334b39d72.jpg)](#2026-11-25-whatsapp-image-2026-11-25-at-150551httpshalflifeh)
 17. [2026-11-25: ![20261125_225446](https://halflife.hackclub-assets.com/sessions/9RMUX4yxUeccYF4UiHF6A16jL2elmZRn/67a93c425cc5b9fd50b13a13d1ddea8fd4ef161074eb208c0ddd21df364968b7.jpg)](#2026-11-25-20261125225446httpshalflifehackclub-assetscomsess)
-18. [2026-11-26: Work session](#2026-11-26-work-session)
+18. [2026-11-26: Work sessio](#2026-11-26-work-sessio)
 
 ## Design
 
@@ -229,10 +229,15 @@ So in this session i made connection of dht11 sensor to my micrecontroller but i
 
 [Timelapse](https://lookout.hackclub.com/api/media/2987f503-ab94-495d-b6dd-84fcaf5a2e1d/video.mp4)
 
-### 2026-11-26: Work session
+### 2026-11-26: Work sessio
 
 **0.62h**
 
-Work session
+Work sessio
+So in this session i wrap up the witing of dht11 sensor
+
+![20261126_155301](https://halflife.hackclub-assets.com/sessions/9RMUX4yxUeccYF4UiHF6A16jL2elmZRn/1362d82efb6e12aa6e423ae973b597b4bdf8f4d177bb93536981fcf8370ab090.jpg)
+
+![20261126_155255](https://halflife.hackclub-assets.com/sessions/9RMUX4yxUeccYF4UiHF6A16jL2elmZRn/23d262fe451477719a96627de5ebcff908bd856f01de321837689c0a86f065ee.jpg)
 
 [Timelapse](https://lookout.hackclub.com/api/media/92ff7b49-81cc-429e-af6e-022743e6971e/video.mp4)
