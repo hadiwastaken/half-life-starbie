@@ -233,4 +233,6 @@ So in this session i made connection of dht11 sensor to my micrecontroller but i
 
 **0.62h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/92ff7b49-81cc-429e-af6e-022743e6971e/video.mp4)
